@@ -1,0 +1,607 @@
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\PNG GUI\Login\Login1.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Ariel.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\x86\SDL2.dll
+D:\SS13\ClientUpdater\bin\Debug\Game\x64\SDL2.dll
+D:\SS13\ClientUpdater\bin\Debug\Game\x86\soft_oal.dll
+D:\SS13\ClientUpdater\bin\Debug\Game\x64\soft_oal.dll
+D:\SS13\ClientUpdater\bin\Debug\Game\x86\libSDL2-2.0.so.0
+D:\SS13\ClientUpdater\bin\Debug\Game\x64\libSDL2-2.0.so.0
+D:\SS13\ClientUpdater\bin\Debug\Game\x86\libopenal.so.1
+D:\SS13\ClientUpdater\bin\Debug\Game\x64\libopenal.so.1
+D:\SS13\ClientUpdater\bin\Debug\Game\libSDL2-2.0.0.dylib
+D:\SS13\ClientUpdater\bin\Debug\Game\libopenal.1.dylib
+D:\SS13\ClientUpdater\bin\Debug\Game\MonoGame.Framework.dll.config
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\transitions\Squares.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\transitions\TextureWipe.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\transitions\Wind.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Bevels.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\BloomCombine.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\BloomExtract.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Crosshatch.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\DeferredLighting.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\DeferredSprite.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Dissolve.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Dots.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\ForwardLighting.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\GaussianBlur.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Grayscale.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\HeatDistortion.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Invert.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Letterbox.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\MultiTexture.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\MultiTextureOverlay.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Noise.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\PaletteCycler.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\PixelGlitch.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\PolygonLight.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Reflection.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Scanlines.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Sepia.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\SpriteAlphaTest.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\SpriteBlinkEffect.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\SpriteEffect.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\SpriteLightMultiply.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\SpriteLines.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Twist.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Effects\Vignette.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\martian\martian.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\lith\unisex\lith.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\lith\plumage\short.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\lith\plumage\short_clothing mask.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\lith\lith.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\mess\bloodbath_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\mess\bloodbath_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\mess\frontbloodspeckle.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\mess\mouthblood.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\male\hair\male_long.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\male\hair\male_short.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\male\human_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\hair\female_bun.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\hair\female_long.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\hair\male_long.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\hair\male_short.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\female\hair\female_bun.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\female\hair\female_long.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\pawns\human\female\human_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\lith\military\zac generic.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\lith\generic\jacket fem.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\lith\generic\jacket fem_harimask.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\lith\generic\js undersuit white.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\lith\generic\shoes.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\underwear\pants boxers white_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\underwear\pants panties white_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\underwear\shirt bra_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\shirts\captain jacket_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\shirts\shirt button white_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\shirts\shirt yellow_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\pants\captain pants_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\pants\pants salmon_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\pants\pants yoga_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\overcoat\captain overcoat_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\jumpsuits\js 13_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\generic\dress green_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\generic\js 13_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\generic\pants salmon_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\generic\pants yoga_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\generic\shirt button white_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\generic\shirt yellow_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\dress\dress green_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\captain\captain jacket_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\captain\captain overcoat_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\male\captain\captain pants_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\undershirt\undershirt bra\male\undershirt bra_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\undershirt\undershirt bra\female\undershirt bra_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\underpants\underpants panties\male\underpants panties white_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\underpants\underpants panties\female\underpants panties white_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\underpants\underpants boxers\male\underpants boxers white_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\underpants\underpants boxers\female\underpants boxers white_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\socks\socks white\unisex\socks white.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\socks\socks blue\unisex\socks blue.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\shirt\shirt yellow\male\shirt yellow_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\shirt\shirt yellow\female\shirt yellow_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\shirt\shirt button\male\shirt button white_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\shirt\shirt button\female\shirt button white_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\shirt\dress green\male\dress green_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\shirt\dress green\female\dress green_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\pants\pants yoga\male\pants yoga_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\pants\pants yoga\female\pants yoga_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\pants\pants salmon\male\pants salmon_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\pants\pants salmon\female\pants salmon_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\js\js 13\male\js 13_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\generic\js\js 13\female\js 13_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\underwear\pants boxers white_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\underwear\pants panties white_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\underwear\shirt bra_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\shirts\captain jacket_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\shirts\shirt button white_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\shirts\shirt yellow_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\pants\captain pants_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\pants\pants salmon_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\pants\pants yoga_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\overcoat\captain overcoat_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\jumpsuits\js 13_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\hairmasks\captain cap_hairmask.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\generic\dress green_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\generic\js 13_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\generic\pants salmon_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\generic\pants yoga_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\generic\shirt button white_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\generic\shirt yellow_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\dress\dress green_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\captain\captain cap_hairmask.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\captain\captain jacket_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\captain\captain overcoat_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\female\captain\captain pants_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\shoes\captain boots\unisex\captain boots.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\pants\captain pants\captain pants_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\pants\captain pants\captain pants_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\angular.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\crissCross.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\diagonalDistort.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\horizontal.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\noise.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\pokemon.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\sawTooth.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\spiral.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\textureWipeTransition\wink.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\overshirt\captain overcoat\male\captain overcoat_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\gooCursor.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\textures\heatDistortionNoise.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\overshirt\captain overcoat\female\captain overcoat_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\fonts\NezDefaultBMFont.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\transitions\Squares.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\transitions\TextureWipe.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\transitions\Wind.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\overshirt\captain jacket\male\captain jacket_m.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Bevels.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\BloomCombine.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\BloomExtract.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Crosshatch.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\DeferredLighting.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\DeferredSprite.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Dissolve.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Dots.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\ForwardLighting.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\GaussianBlur.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Grayscale.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\HeatDistortion.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Invert.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Letterbox.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\MultiTexture.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\MultiTextureOverlay.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Noise.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\PaletteCycler.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\PixelGlitch.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\PolygonLight.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Reflection.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Scanlines.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Sepia.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\SpriteAlphaTest.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\SpriteBlinkEffect.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\SpriteEffect.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\SpriteLightMultiply.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\SpriteLines.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Twist.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Nez\effects\Vignette.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\overshirt\captain jacket\female\captain jacket_f.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\1.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\10.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\11.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\12.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\13.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\14.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\2.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\3.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\4.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\5.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\6.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\7.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\8.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Window Elements\9.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\hat\captain cap\unisex\captain cap.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\captain\hat\captain cap\unisex\captain cap_hairmask.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Scrollbar\Scrollbar.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Scrollbar\ScrollDownButton.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Scrollbar\Scrollhandle.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Scrollbar\ScrollupButton.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Scrollbar\walltest1.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Mouse\Green.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Login Elements\EmptyButton.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Login Elements\LoginBackground.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Login Elements\LoginButtonHeader.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Login Elements\PasswordButtonHeader.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Login Elements\StartLogin.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Login Elements\TextField.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Login\Login1.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\all\underwear\socks blue.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\all\underwear\socks white.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Tile Sprites\Walls\walltest1.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Inventory\1.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Inventory\2.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\all\security\sec helm.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\all\security\sec helm_airtight.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\all\security\sec helm_airtight_hairmask.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Tile Sprites\Feature\Airvents.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Tile Sprites\Feature\Light.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Fonts\venus rising rg.ttf
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\all\captain\captain boots.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\clothing\human\all\captain\captain cap.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Checkbox Elements\Checkbox_Checked.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Checkbox Elements\Checkbox_Unchecked.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Tile Sprites\Airshafts\AirshaftFloor.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Buttons\Options close button.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Buttons\Options exit button.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\GUI\Buttons\Options save button.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Tile Sprites\64_floor.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Tile Sprites\64_wall.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Space Backgrounds\Star Overlays\Stars Small_1.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Space Backgrounds\Star Overlays\Stars Small_2.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Space Backgrounds\Star Overlays\Stars-Big_1_1_PC.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Space Backgrounds\Star Overlays\Stars-Big_1_2_PC.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Fonts\NezDefaultBMFont.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Songs\Checking Manifest.ogg
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Songs\Checking Manifest.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Songs\DOS-88 - Far away.ogg
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Songs\DOS-88 - Far away.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Songs\Ruskerdax - Pondering the Cosmos.ogg
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Songs\Ruskerdax - Pondering the Cosmos.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Songs\TremLoadingloopl.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Space Backgrounds\Backgrounds\Nebula Aqua-Pink.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Space Backgrounds\Backgrounds\Nebula Blue.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Space Backgrounds\Backgrounds\Nebula Red.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Space Backgrounds\Backgrounds\spacefield_a-000.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Races\Example.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\capfront.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\capside.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\manfront.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\manside.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Character Sprites\maroonsquare.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Animated Sprite Effects\Explosions\1.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Animated Sprite Effects\Explosions\2.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Animated Sprite Effects\Explosions\3.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Animated Sprite Effects\Explosions\4.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-00.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-01.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-02.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-03.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-04.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-05.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-06.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-07.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-08.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-09.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-10.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-11.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-12.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-13.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-14.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\beep-15.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\click.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\click_2.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\load.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\misc_menu.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\misc_menu_2.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\misc_menu_3.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\misc_menu_4.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\misc_sound.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\negative.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\negative_2.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\positive.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\save.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Sound Effects\sharp_echo.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\64_floor.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\64_wall.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\Arial.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\capfront.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\capside.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\manfront.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\Content\manside.xnb
+D:\SS13\ClientUpdater\bin\Debug\Game\SS13Clone.exe.config
+D:\SS13\ClientUpdater\bin\Debug\Game\SS13Clone.exe
+D:\SS13\ClientUpdater\bin\Debug\Game\SS13Clone.pdb
+D:\SS13\SS13Clone\obj\Release\SS13Clone.csprojAssemblyReference.cache
+D:\SS13\SS13Clone\obj\Release\SS13Clone.csproj.CoreCompileInputs.cache
+D:\SS13\SS13Clone\obj\Release\SS13Clone.csproj.CopyComplete
+D:\SS13\SS13Clone\obj\Release\SS13Clone.exe
+D:\SS13\SS13Clone\obj\Release\SS13Clone.pdb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\PNG GUI\Login\Login1.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Ariel.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\x86\SDL2.dll
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\x64\SDL2.dll
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\x86\soft_oal.dll
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\x64\soft_oal.dll
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\x86\libSDL2-2.0.so.0
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\x64\libSDL2-2.0.so.0
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\x86\libopenal.so.1
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\x64\libopenal.so.1
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\libSDL2-2.0.0.dylib
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\libopenal.1.dylib
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\MonoGame.Framework.dll.config
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\transitions\Squares.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\transitions\TextureWipe.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\transitions\Wind.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Bevels.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\BloomCombine.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\BloomExtract.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Crosshatch.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\DeferredLighting.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\DeferredSprite.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Dissolve.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Dots.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\ForwardLighting.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\GaussianBlur.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Grayscale.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\HeatDistortion.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Invert.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Letterbox.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\MultiTexture.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\MultiTextureOverlay.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Noise.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\PaletteCycler.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\PixelGlitch.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\PolygonLight.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Reflection.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Scanlines.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Sepia.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\SpriteAlphaTest.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\SpriteBlinkEffect.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\SpriteEffect.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\SpriteLightMultiply.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\SpriteLines.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Twist.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Effects\Vignette.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\martian\martian.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\lith\unisex\lith.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\lith\plumage\short.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\lith\plumage\short_clothing mask.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\lith\lith.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\mess\bloodbath_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\mess\bloodbath_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\mess\frontbloodspeckle.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\mess\mouthblood.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\male\hair\male_long.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\male\hair\male_short.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\male\human_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\hair\female_bun.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\hair\female_long.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\hair\male_long.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\hair\male_short.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\female\hair\female_bun.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\female\hair\female_long.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\pawns\human\female\human_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\lith\military\zac generic.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\lith\generic\jacket fem.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\lith\generic\jacket fem_harimask.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\lith\generic\js undersuit white.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\lith\generic\shoes.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\underwear\pants boxers white_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\underwear\pants panties white_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\underwear\shirt bra_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\shirts\captain jacket_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\shirts\shirt button white_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\shirts\shirt yellow_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\pants\captain pants_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\pants\pants salmon_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\pants\pants yoga_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\overcoat\captain overcoat_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\jumpsuits\js 13_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\generic\dress green_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\generic\js 13_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\generic\pants salmon_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\generic\pants yoga_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\generic\shirt button white_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\generic\shirt yellow_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\dress\dress green_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\captain\captain jacket_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\captain\captain overcoat_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\male\captain\captain pants_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\undershirt\undershirt bra\male\undershirt bra_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\undershirt\undershirt bra\female\undershirt bra_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\underpants\underpants panties\male\underpants panties white_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\underpants\underpants panties\female\underpants panties white_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\underpants\underpants boxers\male\underpants boxers white_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\underpants\underpants boxers\female\underpants boxers white_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\socks\socks white\unisex\socks white.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\socks\socks blue\unisex\socks blue.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\shirt\shirt yellow\male\shirt yellow_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\shirt\shirt yellow\female\shirt yellow_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\shirt\shirt button\male\shirt button white_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\shirt\shirt button\female\shirt button white_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\shirt\dress green\male\dress green_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\shirt\dress green\female\dress green_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\pants\pants yoga\male\pants yoga_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\pants\pants yoga\female\pants yoga_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\pants\pants salmon\male\pants salmon_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\pants\pants salmon\female\pants salmon_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\js\js 13\male\js 13_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\generic\js\js 13\female\js 13_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\underwear\pants boxers white_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\underwear\pants panties white_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\underwear\shirt bra_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\shirts\captain jacket_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\shirts\shirt button white_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\shirts\shirt yellow_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\pants\captain pants_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\pants\pants salmon_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\pants\pants yoga_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\overcoat\captain overcoat_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\jumpsuits\js 13_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\hairmasks\captain cap_hairmask.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\generic\dress green_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\generic\js 13_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\generic\pants salmon_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\generic\pants yoga_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\generic\shirt button white_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\generic\shirt yellow_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\dress\dress green_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\captain\captain cap_hairmask.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\captain\captain jacket_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\captain\captain overcoat_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\female\captain\captain pants_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\shoes\captain boots\unisex\captain boots.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\pants\captain pants\captain pants_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\pants\captain pants\captain pants_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\overshirt\captain overcoat\male\captain overcoat_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\angular.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\crissCross.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\diagonalDistort.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\horizontal.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\noise.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\pokemon.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\sawTooth.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\spiral.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\textureWipeTransition\wink.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\overshirt\captain overcoat\female\captain overcoat_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\gooCursor.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\textures\heatDistortionNoise.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\overshirt\captain jacket\male\captain jacket_m.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\fonts\NezDefaultBMFont.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\overshirt\captain jacket\female\captain jacket_f.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\transitions\Squares.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\transitions\TextureWipe.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\transitions\Wind.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Bevels.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\BloomCombine.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\BloomExtract.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Crosshatch.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\DeferredLighting.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\DeferredSprite.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Dissolve.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Dots.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\ForwardLighting.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\GaussianBlur.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Grayscale.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\HeatDistortion.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Invert.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Letterbox.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\MultiTexture.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\MultiTextureOverlay.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Noise.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\PaletteCycler.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\PixelGlitch.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\PolygonLight.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Reflection.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Scanlines.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Sepia.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\SpriteAlphaTest.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\SpriteBlinkEffect.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\SpriteEffect.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\SpriteLightMultiply.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\SpriteLines.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Twist.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Nez\effects\Vignette.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\1.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\10.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\11.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\12.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\13.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\14.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\2.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\3.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\4.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\5.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\6.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\7.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\8.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Window Elements\9.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\hat\captain cap\unisex\captain cap.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\captain\hat\captain cap\unisex\captain cap_hairmask.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Scrollbar\Scrollbar.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Scrollbar\ScrollDownButton.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Scrollbar\Scrollhandle.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Scrollbar\ScrollupButton.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Scrollbar\walltest1.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Mouse\Green.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Login Elements\EmptyButton.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Login Elements\LoginBackground.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Login Elements\LoginButtonHeader.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Login Elements\PasswordButtonHeader.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Login Elements\StartLogin.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Login Elements\TextField.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\all\underwear\socks blue.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\all\underwear\socks white.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Login\Login1.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Tile Sprites\Walls\walltest1.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\all\security\sec helm.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\all\security\sec helm_airtight.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\all\security\sec helm_airtight_hairmask.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Inventory\1.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Inventory\2.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Tile Sprites\Feature\Airvents.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Tile Sprites\Feature\Light.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\all\captain\captain boots.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\clothing\human\all\captain\captain cap.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Fonts\venus rising rg.ttf
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Tile Sprites\Airshafts\AirshaftFloor.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Checkbox Elements\Checkbox_Checked.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Checkbox Elements\Checkbox_Unchecked.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Songs\Checking Manifest.ogg
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Songs\Checking Manifest.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Songs\DOS-88 - Far away.ogg
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Songs\DOS-88 - Far away.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Songs\Ruskerdax - Pondering the Cosmos.ogg
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Songs\Ruskerdax - Pondering the Cosmos.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Songs\TremLoadingloopl.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Tile Sprites\64_floor.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Tile Sprites\64_wall.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Buttons\Options close button.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Buttons\Options exit button.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\GUI\Buttons\Options save button.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Space Backgrounds\Star Overlays\Stars Small_1.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Space Backgrounds\Star Overlays\Stars Small_2.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Space Backgrounds\Star Overlays\Stars-Big_1_1_PC.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Space Backgrounds\Star Overlays\Stars-Big_1_2_PC.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Races\Example.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Space Backgrounds\Backgrounds\Nebula Aqua-Pink.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Space Backgrounds\Backgrounds\Nebula Blue.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Space Backgrounds\Backgrounds\Nebula Red.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Space Backgrounds\Backgrounds\spacefield_a-000.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\capfront.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\capside.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\manfront.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\manside.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Character Sprites\maroonsquare.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Animated Sprite Effects\Explosions\1.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Animated Sprite Effects\Explosions\2.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Animated Sprite Effects\Explosions\3.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Animated Sprite Effects\Explosions\4.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-00.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-01.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-02.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-03.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-04.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-05.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-06.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-07.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-08.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-09.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-10.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-11.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-12.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-13.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-14.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\beep-15.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\click.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\click_2.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\load.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\misc_menu.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\misc_menu_2.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\misc_menu_3.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\misc_menu_4.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\misc_sound.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\negative.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\negative_2.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\positive.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\save.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Sound Effects\sharp_echo.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Fonts\NezDefaultBMFont.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\64_floor.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\64_wall.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\Arial.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\capfront.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\capside.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\manfront.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\Content\manside.xnb
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\SS13Clone.exe.config
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\SS13Clone.exe
+D:\SS13\DedicatedServerFramework\bin\Debug\Update\SS13Clone.pdb

@@ -1,0 +1,11 @@
+{
+  "SlotsUsed": [
+    "Head",
+    "Legs",
+    "Chest"
+  ],
+  "RoleName": null,
+  "myDamageResistances": {},
+  "myLocalPosition": "0, 0, 0",
+  "TexturePath": "D:\\"
+}

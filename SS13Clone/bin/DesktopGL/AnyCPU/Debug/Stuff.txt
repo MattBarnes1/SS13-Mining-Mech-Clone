@@ -1,0 +1,41 @@
+{
+  "RaceName": "Example",
+  "BodiesM": [
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": null
+    }
+  ],
+  "BodiesF": [
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": null
+    }
+  ],
+  "Bones": [
+    {
+      "myTextureData": {
+        "myLocalPosition": "0, 0, 0",
+        "TexturePath": null
+      },
+      "Name": null,
+      "HPStartAmount": 100
+    }
+  ],
+  "Hair": [
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": null
+    }
+  ],
+  "Organs": [
+    {
+      "myTextureData": {
+        "myLocalPosition": "0, 0, 0",
+        "TexturePath": null
+      },
+      "Name": null,
+      "HPStartAmount": 100
+    }
+  ]
+}

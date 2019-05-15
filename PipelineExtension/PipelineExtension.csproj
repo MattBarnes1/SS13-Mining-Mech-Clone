@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A54D2BCC-7806-4174-A96C-29191BCC0E94}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PipelineExtension</RootNamespace>
+    <AssemblyName>PipelineExtension</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FreeImageNET, Version=3.17.0.5, Culture=neutral, processorArchitecture=x86">
+      <HintPath>..\packages\FreeImageNET.3.17.1\lib\net45\FreeImageNET.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zlib, Version=1.9.1.5, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ionic.Zlib.1.9.1.5\lib\Ionic.Zlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MonoGame.Framework, Version=3.7.1.189, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MonoGame.Framework.Portable.3.7.1.189\lib\portable-net45+win8+wpa81\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoGame.Framework.Content.Pipeline, Version=3.7.1.189, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MonoGame.Framework.Content.Pipeline.Portable.3.7.1.189\lib\portable-net45+win8+wpa81\MonoGame.Framework.Content.Pipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml.Serialization" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IntermediateFiles\Clothing\ClothesData.cs" />
+    <Compile Include="IntermediateFiles\Clothing\ClothingText.cs" />
+    <Compile Include="IntermediateFiles\Texture Intermediates\TextureIntermediateData.cs" />
+    <Compile Include="IntermediateFiles\Texture Intermediates\TextureIntermediateText.cs" />
+    <Compile Include="IntermediateFiles\Characters\Organs\OrganIntermediateData.cs" />
+    <Compile Include="IntermediateFiles\Characters\Bones\BoneIntermediateData.cs" />
+    <Compile Include="IntermediateFiles\Characters\Bones\BoneIntermediateText.cs" />
+    <Compile Include="IntermediateFiles\Characters\Organs\OrganIntermediateText.cs" />
+    <Compile Include="IntermediateFiles\Race\RaceIntermediateData.cs" />
+    <Compile Include="IntermediateFiles\Race\RaceIntermediateText.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontChar.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontCommon.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontFile.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontImporter.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontInfo.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontKerning.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontPage.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontProcessor.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontProcessorResult.cs" />
+    <Compile Include="NEZ Specific\BitmapFonts\BitmapFontWriter.cs" />
+    <Compile Include="NEZ Specific\Common\ContentWriterExt.cs" />
+    <Compile Include="NEZ Specific\Common\PathHelper.cs" />
+    <Compile Include="NEZ Specific\Common\PixelBitmapContentExt.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasFile.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasImporter.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasPage.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasPoint.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasProcessor.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasProcessorResult.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasRect.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasRegion.cs" />
+    <Compile Include="NEZ Specific\LibGdxAtlases\LibGdxAtlasWriter.cs" />
+    <Compile Include="NEZ Specific\NormalMapGenerator\NormalMapProcessor.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\Overlap2DImporter.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\Overlap2DProcessor.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\Overlap2DWriter.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\CompositeItemVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\CompositeVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\MainItemVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\Circle.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\ColorPrimitiveVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\CoreActorData.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\FrameRange.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\Image9PatchVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\LabelVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\LayerItemVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\LightVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\ParticleEffectVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\PhysicsBodyDataVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\ResolutionEntryVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\SelectBoxVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\ShapeVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\SimpleImageVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\SpineVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\SpriteAnimationVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\SpriterVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\NotImplemented\TextBoxVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\PhysicsPropertiesVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\ProjectInfoVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\SceneInfoVO.cs" />
+    <Compile Include="NEZ Specific\Overlap2D\VOs\SceneVO.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ConversionTypes\ParticleDesignerColor.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ConversionTypes\ParticleDesignerFloatValue.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ConversionTypes\ParticleDesignerIntValue.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ConversionTypes\ParticleDesignerTexture.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ConversionTypes\ParticleDesignerVector2.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ParticleDesignerContent.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ParticleDesignerEmitterConfig.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ParticleDesignerImporter.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ParticleDesignerProcessor.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ParticleDesignerProcessorResult.cs" />
+    <Compile Include="NEZ Specific\ParticleDesigner\ParticleDesignerWriter.cs" />
+    <Compile Include="NEZ Specific\TextureAtlasGenerator\TextureAtlasContent.cs" />
+    <Compile Include="NEZ Specific\TextureAtlasGenerator\TextureAtlasPacker.cs" />
+    <Compile Include="NEZ Specific\TextureAtlasGenerator\TextureAtlasProcessor.cs" />
+    <Compile Include="NEZ Specific\TextureAtlasGenerator\TextureAtlasWriter.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerFile.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerJsonImporter.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerMeta.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerPoint.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerProcessor.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerRectangle.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerRegion.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerSize.cs" />
+    <Compile Include="NEZ Specific\TexturePacker\TexturePackerWriter.cs" />
+    <Compile Include="NEZ Specific\Tiled\TiledMapImporter.cs" />
+    <Compile Include="NEZ Specific\Tiled\TiledMapProcessor.cs" />
+    <Compile Include="NEZ Specific\Tiled\TiledMapWriter.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxData.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxDataTile.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxImage.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxImageLayer.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxLayer.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxMap.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxObject.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxObjectGroup.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxOrientation.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxProperty.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxRenderOrder.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxTerrain.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxTileLayer.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxTileOffset.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxTileset.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxTilesetTile.cs" />
+    <Compile Include="NEZ Specific\Tiled\TmxTilesetTileAnimationFrame.cs" />
+    <Compile Include="NEZ Specific\UISkin\JsonDictionaryConverter.cs" />
+    <Compile Include="NEZ Specific\UISkin\UISkinImporter.cs" />
+    <Compile Include="NEZ Specific\UISkin\UISkinProcessor.cs" />
+    <Compile Include="NEZ Specific\UISkin\UISkinWriter.cs" />
+    <Compile Include="NEZ Specific\XMLTemplateMaker\XmlTemplateMakerProcessor.cs" />
+    <Compile Include="Pipelines\Clothes\ClothesImporter.cs" />
+    <Compile Include="Pipelines\Clothes\ClothProcessor.cs" />
+    <Compile Include="Pipelines\Clothes\ClothReader.cs" />
+    <Compile Include="Pipelines\Clothes\ClothWriter.cs" />
+    <Compile Include="Pipelines\Races\RaceImporter.cs" />
+    <Compile Include="Pipelines\Races\RaceProcessor.cs" />
+    <Compile Include="LogHandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pipelines\Races\RaceReader.cs" />
+    <Compile Include="Pipelines\Races\RaceWriter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NEZ-ENGINE-CUSTOM\NEZ-ENGINE-CUSTOM.csproj">
+      <Project>{a73f8a2d-b8b5-41df-85b5-dfdf879839a9}</Project>
+      <Name>NEZ-ENGINE-CUSTOM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PacketData\GameData.csproj">
+      <Project>{ee4b7134-9ff2-406b-8698-0138d3c0870a}</Project>
+      <Name>GameData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

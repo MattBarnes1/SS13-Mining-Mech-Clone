@@ -1,0 +1,54 @@
+{
+  "RaceName": "Example",
+  "RaceDescription": "asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf",
+  "MaleBodies": [
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": "D:\\SS13\\SS13Clone\\Content\\Character Sprites\\pawns\\human\\male\\human_m.png"
+    }
+  ],
+  "FemaleBodies": [
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": "D:\\SS13\\SS13Clone\\Content\\Character Sprites\\pawns\\human\\female\\human_f.png"
+    }
+  ],
+  "Bones": [
+    {
+      "myTextureData": {
+        "myLocalPosition": "0, 0, 0",
+        "TexturePath": "D:\\SS13\\SS13Clone\\Content\\Character Sprites\\pawns\\human\\female\\human_f.png"
+      },
+      "Name": "FemaleBone",
+      "HPStartAmount": 100
+    }
+  ],
+  "Hair": [
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": "D:\\SS13\\SS13Clone\\Content\\Character Sprites\\pawns\\human\\hair\\female_bun.png"
+    },
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": "D:\\SS13\\SS13Clone\\Content\\Character Sprites\\pawns\\human\\hair\\female_long.png"
+    },
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": "D:\\SS13\\SS13Clone\\Content\\Character Sprites\\pawns\\human\\hair\\male_long.png"
+    },
+    {
+      "myLocalPosition": "0, 0, 0",
+      "TexturePath": "D:\\SS13\\SS13Clone\\Content\\Character Sprites\\pawns\\human\\hair\\male_short.png"
+    }
+  ],
+  "Organs": [
+    {
+      "myTextureData": {
+        "myLocalPosition": "0, 0, 0",
+        "TexturePath": "D:\\SS13\\SS13Clone\\Content\\Character Sprites\\pawns\\human\\hair\\male_short.png"
+      },
+      "Name": "Hairy",
+      "HPStartAmount": 100
+    }
+  ]
+}

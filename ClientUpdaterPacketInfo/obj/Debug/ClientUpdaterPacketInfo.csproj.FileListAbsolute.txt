@@ -1,0 +1,10 @@
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\bin\Debug\ClientUpdaterPacketInfo.dll
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\bin\Debug\ClientUpdaterPacketInfo.pdb
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\bin\Debug\BasePacket.dll
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\bin\Debug\Lidgren.Network.dll
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\bin\Debug\BasePacket.pdb
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\obj\Debug\ClientUpdaterPacketInfo.csprojAssemblyReference.cache
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\obj\Debug\ClientUpdaterPacketInfo.csproj.CoreCompileInputs.cache
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\obj\Debug\ClientUpdaterPacketInfo.csproj.CopyComplete
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\obj\Debug\ClientUpdaterPacketInfo.dll
+D:\SS13Repo\SS13\ClientUpdaterPacketInfo\obj\Debug\ClientUpdaterPacketInfo.pdb

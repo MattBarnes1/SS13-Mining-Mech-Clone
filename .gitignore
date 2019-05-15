@@ -21,3 +21,17 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+*.cache
+*.xnb
+*.ogg
+DedicatedServerFramework/bin/Debug/Update/GameData.dll
+*.dll
+*.png
+*.mgcontent
+*.mp3
+SS13Clone/Content/Songs/TremLoadingloopl.wav
+*.wav
+SS13Clone/Content/Sound Effects/heartbeat.mp3_.flac
+*.bmp
+SS13Clone/Content/Sound Effects/Solar Phasing - Industrial Noises Ambient 1.txt
+*.pdb

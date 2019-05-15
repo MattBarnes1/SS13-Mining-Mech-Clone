@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE4B7134-9FF2-406B-8698-0138D3C0870A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GameData</RootNamespace>
+    <AssemblyName>GameData</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Lidgren.Network, Version=3.7.1.189, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\Lidgren.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoGame.Framework, Version=3.6.0.1625, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ECS\Custom Component\Animation\AnimationSystem.cs" />
+    <Compile Include="ECS\Custom Component\AudioSFX component\AudioSFX.cs" />
+    <Compile Include="ECS\Custom Component\DirectionalSprite.cs" />
+    <Compile Include="ECS\Custom Component\Generic Transmission Components\Conduit.cs" />
+    <Compile Include="ECS\Custom Component\Generic Transmission Components\Consumer.cs" />
+    <Compile Include="ECS\Custom Component\Generic Transmission Components\IGetSetDataObject.cs" />
+    <Compile Include="ECS\Custom Component\Generic Transmission Components\Producer.cs" />
+    <Compile Include="ECS\Custom Component\Generic Transmission Components\Reservoir\IReservoirRecharge.cs" />
+    <Compile Include="ECS\Custom Component\Generic Transmission Components\Reservoir\Reservoir.cs" />
+    <Compile Include="ECS\Custom Component\Player Components\PlayerMover.cs" />
+    <Compile Include="ECS\Custom Systems\PlayerSystems\PlayerMovementSystem.cs" />
+    <Compile Include="ECS\Custom Tile Item\ShownTile.cs" />
+    <Compile Include="GameDataClasses\AnimationData\Animation.cs" />
+    <Compile Include="GameDataClasses\AnimationData\AnimationSlide.cs" />
+    <Compile Include="GameDataClasses\Characters\Clothing Class\Clothing.cs" />
+    <Compile Include="GameDataClasses\Characters\Internals\Bones\Bone.cs" />
+    <Compile Include="GameDataClasses\Characters\CharacterAnimation.cs" />
+    <Compile Include="GameDataClasses\AnimationData\StaticAnimation.cs" />
+    <Compile Include="GameDataClasses\Characters\CharacterTexture.cs" />
+    <Compile Include="GameDataClasses\Characters\Internals\InternalObject.cs" />
+    <Compile Include="GameDataClasses\Characters\Internals\Organs\Organ.cs" />
+    <Compile Include="GameDataClasses\DiceRoller\DiceRoller.cs" />
+    <Compile Include="GameDataClasses\Entities\Base class\EntityData.cs" />
+    <Compile Include="GameDataClasses\Entities\Player\PlayerControlScheme.cs" />
+    <Compile Include="GameDataClasses\Entities\Player\PlayerData.cs" />
+    <Compile Include="GameDataClasses\Entities\Sexes.cs" />
+    <Compile Include="GameDataClasses\Items\Armor\DamageResistance.cs" />
+    <Compile Include="GameDataClasses\Items\Armor\DamageResistancesHolder.cs" />
+    <Compile Include="GameDataClasses\Maps\Air Pressure\AirConduit.cs" />
+    <Compile Include="GameDataClasses\Maps\Air Pressure\AirConsumer.cs" />
+    <Compile Include="GameDataClasses\Maps\Air Pressure\AirPressure.cs" />
+    <Compile Include="GameDataClasses\Maps\Air Pressure\AirProducer.cs" />
+    <Compile Include="GameDataClasses\Maps\Materials\Base\Material.cs" />
+    <Compile Include="GameDataClasses\Maps\Rooms\CenterOfBaseRoomObject.cs" />
+    <Compile Include="GameDataClasses\Maps\Rooms\RoomObject.cs" />
+    <Compile Include="GameDataClasses\Maps\Texture Handler\WallTexture.cs" />
+    <Compile Include="GameDataClasses\Maps\TileSetResourceHandler.cs" />
+    <Compile Include="GameDataClasses\Maps\Tile\TileData.cs" />
+    <Compile Include="GameDataClasses\Maps\World\Map.cs" />
+    <Compile Include="GameDataClasses\ProbabilityTable\IProbabilityTableItem.cs" />
+    <Compile Include="GameDataClasses\ProbabilityTable\ProbabilityEntry.cs" />
+    <Compile Include="GameDataClasses\ProbabilityTable\SimpleProbabilityTable.cs" />
+    <Compile Include="GameDataClasses\Professions\Profession.cs" />
+    <Compile Include="GameDataClasses\Races\Race.cs" />
+    <Compile Include="Noise\FastNoise.cs" />
+    <Compile Include="Packets\Acknowledge\AckPacket.cs" />
+    <Compile Include="Packets\Acknowledge\AckPacketRecvPacket.cs" />
+    <Compile Include="Packets\Acknowledge\RecvAckPacket.cs" />
+    <Compile Include="Packets\Acknowledge\ServerErrorResetPacket.cs" />
+    <Compile Include="Packets\Messaging\AnnounceToAllMaps.cs" />
+    <Compile Include="Packets\Messaging\AnnounceToMapPacket.cs" />
+    <Compile Include="Packets\Messaging\AnnounceToPlayerPacket.cs" />
+    <Compile Include="Packets\Messaging\MessagePacketClass.cs" />
+    <Compile Include="Packets\Messaging\SendMessageMapPacket.cs" />
+    <Compile Include="Packets\Messaging\SendMessageLocalAreaPacket.cs" />
+    <Compile Include="Packets\Map Loading\MapLoadedPacket.cs" />
+    <Compile Include="Packets\Map Loading\RequestRegionDataPacket.cs" />
+    <Compile Include="Packets\Map Loading\UpdateTileInRegionPacket.cs" />
+    <Compile Include="Packets\Messaging\WhisperMessagePlayer.cs" />
+    <Compile Include="Packets\PlayerMapConnectionPacket.cs" />
+    <Compile Include="Packets\Player\Character Creation\CharacterCreationPacket.cs" />
+    <Compile Include="Packets\Player\Component Updates\Positioning\UpdatePlayerPositionPacket.cs" />
+    <Compile Include="Packets\Player\Data Transmission\PlayerInfoPacket.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\ObjectPool.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GameDataClasses\Maps\Rooms\Base\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BasePacket\BaseUDPPackets.csproj">
+      <Project>{a279ff3e-3cc9-43a6-8094-217fed0139f5}</Project>
+      <Name>BaseUDPPackets</Name>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </ProjectReference>
+    <ProjectReference Include="..\NEZ-ENGINE-CUSTOM\NEZ-ENGINE-CUSTOM.csproj">
+      <Project>{a73f8a2d-b8b5-41df-85b5-dfdf879839a9}</Project>
+      <Name>NEZ-ENGINE-CUSTOM</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
